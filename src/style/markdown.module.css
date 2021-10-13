@@ -1,0 +1,18 @@
+.gridLayout{
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: 50vw 50vw;
+}
+
+.code{
+    height: 100%;
+    width: 100%;
+    padding: 5px;
+}
+
+.preview{
+    height: 100%;
+    width: 100%;
+    background: rgba(92, 129, 136, 0.4);
+    padding: 5px;
+}
